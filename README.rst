@@ -1,4 +1,6 @@
-# ptypes
+# ptypes by arizvisa
+
+(Only wrote this tutorial, all of this code is arizvisa's)
 
 ## Tutorial
 
